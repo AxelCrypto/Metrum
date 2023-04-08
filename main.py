@@ -39,9 +39,7 @@ st.sidebar.image('images/logo.png', width = 250)
 
 
 
-st.title(' :blue[Metrum]')
-st.header('Exercice de recrutement (BI), `Bonus`')
-
+st.title(' :blue[Metrum], Exercice de recrutement (BI), `Bonus`')
 
 
 
