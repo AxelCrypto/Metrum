@@ -35,7 +35,7 @@ df = df.iloc[: days_to_plot ]
 data = st.sidebar.checkbox('Show Data', value=False)
 
 
-st.sidebar.image('images/logo.png', width = 250)
+st.sidebar.image('images/logo.png', width = 220)
 
 
 
