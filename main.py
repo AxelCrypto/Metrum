@@ -40,7 +40,7 @@ st.sidebar.image('images/logo.png', width = 250)
 
 
 st.title('# :blue[Metrum]')
-st.writedown('Exercice de recrutement (BI), `Bonus`')
+st.markdown('Exercice de recrutement (BI), `Bonus`')
 
 
 
