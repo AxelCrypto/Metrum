@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="Metrum_Axel_Girou",
+    page_title="Test_Axel_Girou",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -35,11 +35,9 @@ df = df.iloc[: days_to_plot ]
 data = st.sidebar.checkbox('Show Data', value=False)
 
 
-st.sidebar.image('images/logo.png', width = 220)
 
+st.title(' :blue[Test], `Exercice de recrutement Bonus`')
 
-
-st.title(' :blue[Metrum], `Exercice de recrutement Bonus`')
 
 
 
